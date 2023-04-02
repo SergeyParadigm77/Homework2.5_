@@ -36,4 +36,5 @@ public Employee findEmployee(@RequestParam String firstName, @RequestParam Strin
     public List<Employee> getAllEmployee() {
         return employeeService.getAllEmployees();
     }
+
 }
