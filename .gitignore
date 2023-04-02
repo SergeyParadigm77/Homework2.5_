@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/
+/src/
+/src/test/
+/src/main/resources/
+/src/main/java/pro/skype/Homework25/exceptions/
+/src/main/java/pro/skype/Homework25/
+/src/main/java/
